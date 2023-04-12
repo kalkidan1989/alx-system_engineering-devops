@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "My first output."
+echo "pwd"
